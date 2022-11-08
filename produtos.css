@@ -26,3 +26,13 @@ nav {
     width: 940px;
     right: 0 auto;
 }
+
+.produtos li {
+    display: inline-block;
+}
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
